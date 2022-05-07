@@ -1,0 +1,7 @@
+
+1- todo debe ir con minúsculas
+2- al crear variabes no deben empezar con números y si es palabra compuesta debe ir separado
+por un guion bajo. Ejem: valor_variable
+
+3- ctrl + / -> comenta todas las lineas seleccionadas
+
