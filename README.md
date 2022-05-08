@@ -1,2 +1,3 @@
 # Curso Básico de Python 🐍 
-Curso Básico de Python de Platzi
+
+![img](./assets/diploma_python_basico)
